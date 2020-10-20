@@ -91,24 +91,25 @@ disqusShortname = ""
     enable = true
     # Display your showcases here.
     
+    [[params.tiles.showcase]]
+      title = "My CV"
+      subtitle = "Let's have a look"
+      image = "pic03.jpg"
+      url = "projects/Bio/index"
+    
  [[params.tiles.showcase]]
-      title = "Homework 2"
-      subtitle = "Let's have a look at HTML Doc"
-      image = "finance.jpeg"
+      title = "Drinking data"
+      subtitle = "Let's have a look"
+      image = "finance.jpg"
       url = "projects/project_returns/homework2"
 
 
     [[params.tiles.showcase]]
      title = "Homework 3"
-      subtitle = "Let's have a look at HTML Doc"
+      subtitle = "Let's have a look"
       image = "risk_vs_return.jpeg"
       url = "projects/project_returns2/homework3"
 
-    [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
-      url = "blogs/magna"
 
     [[params.tiles.showcase]]
       title = "Ipsum"
