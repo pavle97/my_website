@@ -94,18 +94,18 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "My CV"
       subtitle = "Let's have a look"
-      image = "pic03.jpg"
+      image = "me.jpg"
       url = "projects/Bio/index"
     
  [[params.tiles.showcase]]
-      title = "Drinking data"
+      title = "AirBNB analytics"
       subtitle = "Let's have a look"
       image = "finance.jpg"
       url = "projects/project_returns/homework2"
 
 
     [[params.tiles.showcase]]
-     title = "Homework 3"
+     title = "Drinking data"
       subtitle = "Let's have a look"
       image = "risk_vs_return.jpeg"
       url = "projects/project_returns2/homework3"
